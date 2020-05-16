@@ -1,0 +1,3 @@
+rootProject.name='Thost'
+include ':app'
+include ':thostlib'

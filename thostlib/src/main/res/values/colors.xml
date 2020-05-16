@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apollo_card_back_light">#B7B9BC</color>
+    <color name="apollo_card_button_left_light">#FFFFFF</color>
+    <color name="apollo_card_button_right_light">#12D60F</color>
+
+    <color name="red">#EEDF1A1A</color>
+    <color name="green">#EE11BC0B</color>
+    <color name="yellow">#EEF8B01F</color>
+    <color name="blue">#2196F3</color>
+
+</resources>
