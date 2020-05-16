@@ -1,5 +1,16 @@
 # Thost
 
+### What can you do?
+
+- You can use existing mixed toast (**Success, Error, Warning, Info** thost)
+- You can change toast **radius**
+- You can change toast **background color**
+- You can change toast **font**
+- You can change toast **text size**
+- You can change toast **text color**
+- You can **add icon** to toast
+- You can change toast **iconTint**
+- You can change toast **duration**
 
 ## Installation
 
@@ -81,6 +92,12 @@ dependencies {
  ```
  .setFont(R.font.fontname)
  ```
+   Thost duration :
+ ```
+ .setDuration(Toast.LENGTH_LONG)
+ ```
+ 
+ 
  ### Screenshots
  
  <img src="https://github.com/FiratGURGUR/Thost/blob/master/app/screens/sc1.png" width="45%">   <img src="https://github.com/FiratGURGUR/Thost/blob/master/app/screens/sc2.png" width="45%">  
