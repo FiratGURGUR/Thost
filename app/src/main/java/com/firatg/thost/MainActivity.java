@@ -34,19 +34,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonInfo.setOnClickListener(this);
         buttonCustom.setOnClickListener(this);
 
- /*       new Thost()
-                .setContext(MainActivity.this)
-                .setIcon(R.drawable.sde)//toast icon
-                .setFont(R.font.pangolinregular)//toast font
-                .seticonTintColor(R.color.colorPrimary)//icon rengi
-                .setRadius(30.5f)//toast radius
-                .setColor(getColor(R.color.colorAccent)) //toast renk
-                .setTitle("Since it is clearly mentioned as 'impossible to lternative method and I clearly mentioned it as well.")
-                .setTextSize(17)
-                .setTextColor(R.color.colorPrimary)
-                .setDuration(Toast.LENGTH_LONG)
-                .create().thost().show();*/
-
     }
 
 
@@ -72,7 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         .setIcon(R.drawable.sde)//toast icon
                         .setFont(R.font.pangolinregular)//toast font
                         .seticonTintColor(R.color.colorPrimary)//icon rengi
-                        .setRadius(50.5f)//toast radius
+                        .setRadius(30.5f)//toast radius
                         .setColor(getColor(R.color.colorAccent)) //toast renk
                         .setTitle("Since it is clearly mentioned as 'impossible to lternative method and I clearly mentioned it as well.")
                         .setTextSize(17)
